@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/14Uo0NSAJNG_GAH8y3Jn1VTrIazfUzvg3EIU-ZRlWHnY/edit?usp=sharing](https://docs.google.com/document/d/14Uo0NSAJNG_GAH8y3Jn1VTrIazfUzvg3EIU-ZRlWHnY/edit?usp=sharing)
 
-- ⚡ Fun fact **God actually exists**
+- ⚡ Fun fact **First person shooters are the best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
