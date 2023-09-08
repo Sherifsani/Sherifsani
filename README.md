@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sherif Sani</h1>
 <h3 align="center">Git-ting my geek on!</h3>
-<img align="left" width="400" src="https://unsplash.com/photos/dYEuFB8KQJk"/>
+<img align="left" width="400" src="https://geekflare.com/wp-content/uploads/2022/10/Coding.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherifsani&label=Profile%20views&color=0e75b6&style=flat" alt="sherifsani" /> </p>
 
 - 🌱 I’m currently learning **Amazon Web services**
